@@ -26,7 +26,17 @@ $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
 
-$primary:   $teal!default;
+// added by me
+$aquamarine:  #94FFD4 !default;
+$mint:  #46b47f !default;
+$blue-1:  #a7c6e7 !default;
+$blue-2:  #80a1c3  !default;
+$blue-3:  #5b7f9d  !default;
+$blue-4:  #3b5b7a  !default;
+$blue-5:  #2b4e61  !default;
+$blue-6:  #1c3d4c  !default;
+
+$primary:   $blue-4!default;
 $secondary: $gray-700 !default;
 $success:   $green !default;
 $info:      $cyan !default;
