@@ -1,9 +1,7 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
-
 # website settings
 website:
-  title: "Alexander Krammer"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  title: "Alexander Krammer"
+  #description: "Treuhaft Scholar at CWRU"
   image: img/my_image.jpg
   
   favicon: img/favicon.png
