@@ -30,5 +30,5 @@ My name is Alexander Krammer. I am a fourth-year undergraduate student studying 
 
 I am currently applying to medical school and aspire to become a physician. In working towards that goal, I have spent a great deal of time volunteering at the Louis Stokes VA Medical Center and have engaged in research that is outlined in more detail on the "Projects" page. I have also spent a considerable amount of time engaged in leadership and other service activities, and will continue to work as the Senior Teaching Assistant for Organic Chemistry.
 
-Please feel free to explore this site and [contact me via email](mailto:apkrammer01@gmail.com) if you have any questions or would like to discuss potential projects.
+Please feel free to explore this site and [[contact me via email](mailto:apkrammer01@gmail.com)]{.underline} if you have any questions or would like to discuss potential projects.
 

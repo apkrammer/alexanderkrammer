@@ -3,20 +3,9 @@ title: Current Projects
 ---
 
 
-## CCD Activity Assay Development
-
-<img src="Carotenoids Spectra.png" style="height: 100%; width: 100%; object-fit: contain"/>
-
-Carotenoid absorbance spectra change as they are cleaved by Carotenoid Cleavage Dioxygenases (CCDs) like Beta-Carotene Oxygenase 2 (BCO2). Making use of this fact and my computational expertise, I am working with other members of the von Lintig Lab to develop a high-throughput enzyme activity assay. This assay should allow us to characterize the function of CCDs more easily and consistently. This assay should also directly enable enzyme kinetics and mechanistic analysis elaborating on previous findings.
-
-
-
-----
-
-
 ## BCO2 Structural Projects
 
-Currently, I am working on two separate structural biochemistry projects in the [Johannes von Lintig Lab](https://case.edu/medicine/pharmacology/research/von-lintig-lab-0). Both projects relate to the function of BCO2, an essential enzyme in carotenoid homeostasis.
+Currently, I am working on two separate structural biochemistry projects in the [[Johannes von Lintig Lab](https://case.edu/medicine/pharmacology/research/von-lintig-lab-0)]{.underline}. Both projects relate to the function of Beta-Carotene Oxygenase 2 (BCO2), an essential enzyme in carotenoid homeostasis.
 
 
 
@@ -24,17 +13,30 @@ Currently, I am working on two separate structural biochemistry projects in the 
 
 BCO2 is a membrane-associated mitochondrial enzyme that is difficult to purify in a consistent and functional form. I developed a new protein purification protocol that relies extensively on micellar manipulation and an optimized affinity chromatography setup to substantially increase yield, purity, and stability of purified murine and human BCO2. This enabled various previous findings that I have presented or will present at national conferences.
 
-Currently, working together with the [Chakrapani Lab](https://sites.google.com/case.edu/sudha-chakrapani-lab/team/lab-members), we are attempting to determine an empirical structure of murine BCO2 using CryoEM.
+Currently, working together with the [[Chakrapani Lab](https://sites.google.com/case.edu/sudha-chakrapani-lab/home)]{.underline}, we are attempting to determine an empirical structure of murine BCO2 using CryoEM.
 
 
 
 ### Rational Enzyme Design
 
-Perhaps the most ambitious project I've worked on yet, my current aim here is to produce a broadly-specific synthetic CCD that will allow for the flexible production of particular carotenoid cleavage products. This work expands from a serendipitous discovery of a point mutation in BCO2 that results in the production of only the first cleaved carotenoid product. Working from predicted structural models and sequence alignments, along with a few key structural insights, my aims are to:
+Perhaps the most ambitious project I've worked on yet, my current aim here is to produce a broadly-specific synthetic Carotenoid Cleavage Dioxygenase (CCD) that will allow for the flexible production of particular carotenoid cleavage products. This work expands from a serendipitous discovery of a point mutation in BCO2 that results in the production of only the first cleaved carotenoid product. Working from predicted structural models and sequence alignments, along with a few key structural insights, my aims are to:
 
 - Introduce the substrate promiscuity of BCO2 into BCO1
 
 - Alter key parts of the enzyme to shift substrate positioning in catalysis
 
 - Ultimately, produce a synthetic, adjustable CCD for specific apo-carotenoid production
+
+
+
+## CCD Activity Assay Development
+
+<img src="Carotenoids Spectra.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+Carotenoid absorbance spectra change as they are cleaved by CCDs like BCO2. Making use of this fact and my computational expertise, I am working with other members of the von Lintig Lab to develop a high-throughput enzyme activity assay. This assay should allow us to characterize the function of CCDs more easily and consistently. This assay should also directly enable enzyme kinetics and mechanistic analysis elaborating on previous findings.
+
+
+
+----
+
 
